@@ -157,6 +157,7 @@ public enum ScanType {
     WPSCAN("Wpscan"),
     XANITIZER_SCAN("Xanitizer Scan"),
     YARN_AUDIT_SCAN("Yarn Audit Scan"),
+    CODEPECKER("Codepecker JSON Report"),
     ZAP_SCAN("ZAP Scan");
 
     @Getter
